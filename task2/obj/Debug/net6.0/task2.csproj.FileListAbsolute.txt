@@ -1,0 +1,16 @@
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\bin\Debug\net6.0\task2.exe
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\bin\Debug\net6.0\task2.deps.json
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\bin\Debug\net6.0\task2.dll
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\bin\Debug\net6.0\ref\task2.dll
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\bin\Debug\net6.0\task2.pdb
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.GlobalUsings.g.cs
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.dll
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\ref\task2.dll
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.pdb
+C:\Users\Eug\Desktop\ВАРЯ\homework 06.08.2022\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
